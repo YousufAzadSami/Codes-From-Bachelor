@@ -1,0 +1,28 @@
+#include<stdio.h>
+
+// this structure stores a 2D co-ordinate
+struct point
+{
+	int x;
+	int y;
+};
+
+void main()
+{
+
+	struct point pn1,pn2; // just taken 2 variables pn1 and pn2
+
+	// giving co ordinate of pn1
+
+	pn1.x = 5;
+	pn1.y = 12;
+
+
+	// giving co-ordinate of pn2
+
+	pn2.x = 3;
+	pn2.y = 9;
+
+	printf("first point is (%d,%d)\n", pn1.x,pn1.y);
+	printf("second point is (%d,%d)\n", pn2.x,pn2.y);
+}

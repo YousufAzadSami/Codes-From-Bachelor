@@ -1,0 +1,6 @@
+elements with 7.500000 ratio is added in whole(weight=2.000000)
+elements with 5.000000 ratio is added in whole(weight=1.000000)
+elements with 2.000000 ratio is added in whole(weight=10.000000)
+elements with 1.000000 ratio is added in whole(weight=10.000000)
+elements with 0.888889 ratio is added in fraction(weight=2.000000)
+Maximum profit is: 90.000000

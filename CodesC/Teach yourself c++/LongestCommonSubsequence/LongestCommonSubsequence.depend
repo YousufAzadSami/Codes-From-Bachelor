@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1358095991 source:d:\programmingtools\codesc\teach yourself c++\longestcommonsubsequence\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

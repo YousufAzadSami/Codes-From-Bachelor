@@ -1,0 +1,10 @@
+Customer Number: 96
+Name: sami
+Balance: 1592
+
+
+Customer Number: 46
+Name: mou
+Balance: 1992
+
+

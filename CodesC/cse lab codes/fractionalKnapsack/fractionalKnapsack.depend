@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1356284313 source:d:\programmingtools\codesc\lab2\fractionalknapsack\main.cpp
+	<iostream>
+
+1356290328 source:d:\programmingtools\codesc\cse lab codes\fractionalknapsack\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

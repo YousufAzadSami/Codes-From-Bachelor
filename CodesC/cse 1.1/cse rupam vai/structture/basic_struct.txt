@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+// this structure stores a 2D co-ordinate
+struct point
+{
+	int x;
+	int y;
+};
+
+void main()
+{
+	struct point pn;
+
+	// pn is a point , its co ordinate is (1,5)
+	pn.x = 1;
+	pn.y = 5;
+
+	printf("The point is (%d,%d)\n", pn.x,pn.y);
+
+}

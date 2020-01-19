@@ -1,0 +1,5 @@
+--------------------Configuration: Cpp1 - Win32 Debug--------------------
+Compiling...
+Error spawning cl.exe
+
+Cpp1.obj - 1 error(s), 0 warning(s)

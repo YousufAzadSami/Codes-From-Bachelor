@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1356717564 source:d:\programmingtools\codesc\uva\12503 - robot instructions\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+

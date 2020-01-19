@@ -1,0 +1,2 @@
+wtire a program that 
+searches 	a text file for	a word specified on the command line

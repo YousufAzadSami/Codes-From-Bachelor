@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1356713554 source:d:\programmingtools\codesc\uva\12541 - birthdates\main.cpp
+	<iostream>
+	<climits>
+	<cstdio>
+	<cstring>
+

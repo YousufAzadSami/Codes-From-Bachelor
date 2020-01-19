@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1357407990 source:d:\programmingtools\codesc\teach yourself c++\tuscppp326ex1\main.cpp
+	<iostream>
+	<fstream>
+

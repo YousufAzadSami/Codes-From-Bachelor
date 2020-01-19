@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1359211314 source:d:\programmingtools\codesc\paullcs\main.cpp
+	<stdio.h>
+	<conio.h>
+	<string.h>
+

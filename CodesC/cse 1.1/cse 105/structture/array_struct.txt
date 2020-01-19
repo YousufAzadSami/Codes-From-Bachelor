@@ -1,0 +1,33 @@
+#include<stdio.h>
+
+// this structure stores a 2D co-ordinate
+struct point
+{
+	int x;
+	int y;
+};
+
+void main()
+{
+	struct point pn[10];
+	int num,i;
+
+
+	printf("Enter the number of points you want to insert : ");
+	scanf("%d", &num);
+
+
+	// enter the points 
+	for(i=0;i<num;i++)
+	{
+		printf("Enter point%d : ", i+1);
+		scanf("%d %d", &pn[i].x,&pn[i].y);
+	}
+
+	printf("you have given : \n");
+
+	for(i=0;i<num;i++)
+	{
+		printf("\tPoint %d : (%d,%d)\n", i+1,pn[i].x,pn[i].y);
+	}
+}

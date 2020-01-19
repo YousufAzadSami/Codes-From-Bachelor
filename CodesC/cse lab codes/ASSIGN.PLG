@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ASSIGN - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\sami\AppData\Local\Temp\RSP738E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/ASSIGN.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\lab2\ASSIGN.CPP"
+]
+Creating command line "cl.exe @C:\Users\sami\AppData\Local\Temp\RSP738E.tmp" 
+Creating temporary file "C:\Users\sami\AppData\Local\Temp\RSP738F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/ASSIGN.pdb" /debug /machine:I386 /out:"Debug/ASSIGN.exe" /pdbtype:sept 
+.\Debug\ASSIGN.OBJ
+]
+Creating command line "link.exe @C:\Users\sami\AppData\Local\Temp\RSP738F.tmp"
+<h3>Output Window</h3>
+Compiling...
+ASSIGN.CPP
+f:\lab2\assign.cpp(15) : warning C4091: 'typedef ' : ignored on left of 'struct tree' when no variable is declared
+f:\lab2\assign.cpp(30) : warning C4018: '<' : signed/unsigned mismatch
+f:\lab2\assign.cpp(103) : error C2065: 'setcolor' : undeclared identifier
+f:\lab2\assign.cpp(104) : error C2065: 'circle' : undeclared identifier
+f:\lab2\assign.cpp(106) : error C2065: 'outtextxy' : undeclared identifier
+f:\lab2\assign.cpp(111) : error C2065: 'line' : undeclared identifier
+f:\lab2\assign.cpp(227) : error C2601: 'main' : local function definitions are illegal
+f:\lab2\assign.cpp(348) : fatal error C1004: unexpected end of file found
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+ASSIGN.exe - 6 error(s), 2 warning(s)
+</pre>
+</body>
+</html>
